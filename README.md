@@ -17,10 +17,10 @@
 
 ---
 
-## ☁️ AWS Certifications
+## ☁️ Cloud Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect-orange?logo=amazonaws" />
+  <img src="https://img.shields.io/badge/CloudCertifications%20-orange?logo=cloud" />
 </p>
 
 | 📜 Certificate          | 🏢 Issuer | 🔗 View                                                          |
@@ -37,8 +37,16 @@
 
 | 📜 Certificate          | 🏢 Issuer | 🔗 View                                                          |
 | ----------------------- | --------- | ---------------------------------------------------------------- |
-| Anthropic Certfiications |  Anthropic | [View Certificate](certificates/anthropic/claude-101.pdf) |
-
+| Claude-101 |  Anthropic | [View Certificate](certificates/anthropic/claude-101.pdf) |
+| Claude-Code In Action |  Anthropic | [View Certificate](certificates/anthropic/claude_code_in_action.pdf) |
+| Claude Subagents |  Anthropic | [View Certificate](certificates/anthropic/subagents.pdf) |
+| Claude-CoWork |  Anthropic | [View Certificate](certificates/anthropic/claude_cowork.pdf) |
+| Claude-AI FLuency |  Anthropic | [View Certificate](certificates/anthropic/ai_fluency_for_educators.pdf) |
+| Claude-AI Framework |  Anthropic | [View Certificate](certificates/anthropic/ai_fluency_framewor&foundations.pdf) |
+| Claude-Anthropic API |  Anthropic | [View Certificate](certificates/anthropic/building_with_claude_api.pdf) |
+| Claude-Agent Skills |  Anthropic | [View Certificate](certificates/anthropic/intro_to_agent_skills.pdf) |
+| Claude-MCP |  Anthropic | [View Certificate](certificates/anthropic/intro_to_mcp.pdf) |
+| Claude-MCP Advance |  Anthropic | [View Certificate](certificates/anthropic/mcp_advance_topics.pdf) |
 ---
 
 ## 🤖 MLOps Certifications
