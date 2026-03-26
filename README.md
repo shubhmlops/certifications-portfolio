@@ -20,14 +20,24 @@
 ## ☁️ AWS Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazonaws" />
   <img src="https://img.shields.io/badge/AWS-Solutions%20Architect-orange?logo=amazonaws" />
 </p>
 
 | 📜 Certificate          | 🏢 Issuer | 🔗 View                                                          |
 | ----------------------- | --------- | ---------------------------------------------------------------- |
-| AWS Cloud Practitioner  | AWS       | [View Certificate](certificates/aws/aws-cloud-practitioner.pdf)  |
-| AWS Solutions Architect | AWS       | [View Certificate](certificates/aws/aws-solutions-architect.pdf) |
+| AWS Solutions Architect | AWS       | [View Certificate](certificates/aws/aws-solutions-architect.jpg) |
+
+---
+
+## ☁️ Anthropic Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Anthropic%20-blue?logo=anthropic" />
+</p>
+
+| 📜 Certificate          | 🏢 Issuer | 🔗 View                                                          |
+| ----------------------- | --------- | ---------------------------------------------------------------- |
+| Anthropic Certfiications |  Anthropic | [View Certificate](certificates/anthropic/claude-101.pdf) |
 
 ---
 
